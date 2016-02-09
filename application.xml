@@ -3,7 +3,7 @@
 	<!-- NMML reference: https://gist.github.com/1763850 -->
 	
 	<!-- metadata, make sure 'package' is at least 3 segments (ie. com.mycompany.myproject) -->
-	<meta title="Notify" package="Notify" version="1.0.0" company="Mateusz Narolewski" />
+	<meta title="Notify" package="Notify" version=„6.6.6” company="Mateusz Narolewski" />
 	
 	<!-- output -->
 	<app main="Main" file="Notify" path="bin" />
